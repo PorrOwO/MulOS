@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "listx.h": "c",
+        "exceptions.h": "c",
+        "types.h": "c",
+        "const.h": "c",
+        "liburiscv.h": "c",
+        "pcb.h": "c",
+        "scheduler.h": "c",
+        "initial.h": "c"
+    }
+}
