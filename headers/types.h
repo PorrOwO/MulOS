@@ -1,4 +1,4 @@
-
+#ifndef PANDOS_TYPES_H_INCLUDED
 #define PANDOS_TYPES_H_INCLUDED
 /****************************************************************************
  *
